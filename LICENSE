@@ -1,0 +1,13 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The data compiled and produced for this study (the processed hourly dataset, the
+LLM experiment outputs and their evaluation) are licensed under CC BY 4.0.
+You may share and adapt them for any purpose, provided you give appropriate
+credit by citing the associated article.
+Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Third-party source data remain subject to their original terms:
+- ENTSO-E Transparency Platform (generation, load, installed capacity, reservoirs)
+- Ember, European Wholesale Electricity Price Data
+- EUMETSAT CM SAF, SARAH-3 surface irradiance (copyright EUMETSAT)
+Please cite these sources as indicated in README.md.
